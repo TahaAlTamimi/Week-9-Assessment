@@ -1,7 +1,7 @@
-import React from 'react';
-import App from 'app';
+import React, { Component } from 'react';
 
-export default class User extends Component {
+
+export default class user extends Component {
     state={
     
   
